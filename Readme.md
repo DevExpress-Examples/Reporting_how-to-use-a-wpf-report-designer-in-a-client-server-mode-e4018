@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportService1.svc.cs](./CS/Reporting/ReportService1.svc.cs) (VB: [ReportService1.svc.vb](./VB/Reporting/ReportService1.svc.vb))
+* **[MainWindow.xaml](./CS/WpfReportDesignerDemo/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfReportDesignerDemo/MainWindow.xaml))**
+<!-- default file list end -->
 # How to use a WPF Report Designer in a client-server mode
 
 
